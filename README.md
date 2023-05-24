@@ -13,13 +13,20 @@ For example, if we were to start with **n = 1200 llamas**, then in the first yea
 
 To try another example, if we were to start with **n = 1000 llamas**, at the end of the year, we would have **1000 / 3 = 333.33** new llamas. We can’t have a decimal portion of a llama, though, so we’ll truncate the decimal to get **333 new llamas born. 1000 / 4 = 250 llamas will pass away**, so we’ll end up with a **total of 1000 + 333 - 250 = 1083 llamas at the end of the year.**
 
+![image showing input and the output of the population program](https://cs50.harvard.edu/x/2021/labs/1/population/population.png)
+
 ## Problems
 
 ### [Credit](https://github.com/Henalecam/cs50x-C/tree/main/credit)
+The program we’ll write will be called **credit**. And it will **allow a user to type in a credit card number and then, indicate** whether it is a **valid American Express, MasterCard, or Visa card number**, per the definitions of each’s format herein.
+
 
 ###  [Cash](https://github.com/Henalecam/cs50x-C/tree/main/cash)
+The program we'll write will be called **cash** and it will **calculate the minimum number of coins required to give a user change**.
 
 ### [Mario](https://github.com/Henalecam/cs50x-C/tree/main/mario-more)
 The program we’ll write will be called **mario**. And let’s **allow the user to decide just how tall the pyramids should be** by first prompting them for a positive integer between, say, **1 and 8**, inclusive.
 
 ### [Hello](https://github.com/Henalecam/cs50x-C/tree/main/hello)
+
+The program we’ll write will be called **hello**. And it will **print out a simple greeting to the user of our program**.
